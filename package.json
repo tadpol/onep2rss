@@ -1,0 +1,16 @@
+{
+  "name": "onep2RSS",
+  "version": "0.0.0",
+  "description": "Passthru app to fetch Exosite One Platform requests as RSS",
+  "main": "onep2RSS.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Exosite",
+    "OnePlatform",
+    "RSS"
+  ],
+  "author": "Michael Conrad Tadpol Tilstra",
+  "license": "MIT"
+}
