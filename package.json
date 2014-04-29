@@ -6,11 +6,18 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tadpol/onep2rss.git"
+  },
   "keywords": [
     "Exosite",
     "OnePlatform",
     "RSS"
   ],
   "author": "Michael Conrad Tadpol Tilstra",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+	  "url": "https://github.com/tadpol/onep2rss/issues"
+  }
 }
