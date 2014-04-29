@@ -69,7 +69,7 @@ http.createServer(function (req,res) {
 	onepReq.write( JSON.stringify(onepReqBody) );
 	onepReq.end();
 
-}).listen(portnum, '127.0.0.1');
+}).listen(portnum);
 console.log('Server running on ' + portnum + '\n');
 
 // vim: set cin sw=4 ts=4 :
